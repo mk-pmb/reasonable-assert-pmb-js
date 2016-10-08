@@ -1,0 +1,41 @@
+{ "name": "reasonable-assert-pmb",
+  "version": "0.0.1",
+  "description": "An implementation of CommonJS Unit Testing 1.0 that aims to transport reasons and annotations.",
+  "keywords": [
+    "assert",
+    "commonjs unit testing",
+    "commonjs",
+    "reason",
+    "unit testing",
+    "reasonable"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/reasonable-assert-pmb-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/reasonable-assert-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/reasonable-assert-pmb-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "reassert.js",
+  "scripts": {
+    "test": "nodejs test/all.js"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "dependencies": {
+    "inherits": "^2.0.3"
+  },
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
