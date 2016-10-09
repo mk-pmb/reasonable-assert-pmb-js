@@ -34,7 +34,9 @@
   "dependencies": {
     "inherits": "^2.0.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "exdata-taxonomy-misc-felidae": "^0.1.1"
+  },
 
 
   "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
